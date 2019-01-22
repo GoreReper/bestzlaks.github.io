@@ -1,0 +1,52 @@
+body{
+
+  background-image:url(tenor.gif);
+
+}
+#all{
+
+
+}
+#head{
+  background-color: red;
+
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+#left{
+  float: left;
+  width: 500px;
+  height:550px;
+  font-size:63px;
+  background-image: url(dada.gif);
+  color: red;
+
+
+
+}
+#content{
+
+  font-style:Impact;
+
+
+  font-size:60px;
+  text-shadow: 2px 2px 2px black, 2 2 2em red;
+background-image: url(123.gif);
+color: red;
+background-color:black;
+
+}
+#down{
+  height:360px;
+  background-color:red;
+  font-size: 30px;
+  text-align: center;
+  background-image: url(giphy.gif);
+
+
+}
+span {
+  line-height: 2em;
+  background: red;
+}
